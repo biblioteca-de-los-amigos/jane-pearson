@@ -184,8 +184,7 @@ Y sin embargo, el Señor sabía lo que yo necesitaba,
 a fin de capacitarme para Su obra y servicio.
 Por lo tanto, para mi mayor refinamiento, le permitió al enemigo que se acercara aún más;
 aunque yo habría podido decir con uno de antaño: "`¿Por qué, pues, inculpa?
-Porque, ¿quién ha resistido a su voluntad?`"
-^
+Porque, ¿quién ha resistido a su voluntad?`"^
 footnote:[Romanos 9:19]
 
 La siguiente es una de las más angustiantes pruebas con la que jamás me haya encontrado.
@@ -435,9 +434,11 @@ Por el bienestar de estos, mi propia alma se conmueve en mi interior,
 y me hace ir inclinada implorando,
 que el auxilio divino sea la ayuda de ellos a través de este valle de lágrimas.
 
-Testimonio de Jane Pearson sobre su fallecido y amado esposo, John Pearson,
+[.embedded-content-document.testimony]
+--
 
-quien partió de esta vida el 14 del mes Seis de 1774.
+[.blurb]
+=== Testimonio de Jane Pearson sobre su fallecido y amado esposo, John Pearson, quien partió de esta vida el 14 del mes Seis de 1774.
 
 Nació de padres creyentes, quienes le dieron una educación aceptable, y creo,
 que según lo mejor de sus posibilidades,
@@ -508,7 +509,10 @@ tampoco me sentía tranquila sin hacerlo.
 y fue dignamente sepultado en el cementerio de los Amigos en Graysouthen,
 a la edad de cuarenta y nueve años.
 
+[.signed-section-signature]
 Jane Pearson.
+
+--
 
 El Señor estaba ahora, a punto de despojarme de mis seres queridos.
 El año siguiente se llevó a mi hijo mayor con fiebre,
